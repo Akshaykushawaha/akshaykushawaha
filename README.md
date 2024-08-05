@@ -1,12 +1,7 @@
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS) <br/>
+![](https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
 
 
 # 💻 Tech Stack:
@@ -19,9 +14,17 @@
 - My recent projects include developing multimodal neurophysiological frameworks for cognitive behavior analysis and object detection models for drone imagery.
 - I have secured top positions in various hackathons and competitions, such as the Primathon Hackathon 2023 and VOIS Innovation Marathon 2022.
 - I'm actively seeking AI, Machine Learning, and Full Stack Development opportunities (Internship and Full Time) starting in Summer 2024.
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-kushawaha-301a95220/) or reach out via [Email](akshay.kushawaha@gmail.com).
+
+### Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-kushawaha-301a95220/) or reach out via [Email](akshay.kushawaha@gmail.com).
 
 <!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
+</p>
 **Akshaykushawaha/akshaykushawaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

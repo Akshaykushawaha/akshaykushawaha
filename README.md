@@ -1,5 +1,9 @@
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akshaykushawaha&theme=dark&hide_border=false) &nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS) <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS" alt="Top Languages" />
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
 

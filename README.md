@@ -1,11 +1,12 @@
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS" alt="Top Languages" />
+  <br><br>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS](https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)" alt="Stats" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
 
 
 # 💻 Tech Stack:

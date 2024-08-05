@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akshaykushawaha&theme=dark&hide_border=false) <br/>
 
 
 # 💻 Tech Stack:
@@ -23,7 +23,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykushawaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=CSS" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti2301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaykushawaha&theme=dark&hide_border=false" alt="Stats" />
 </p>
 **Akshaykushawaha/akshaykushawaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
